@@ -9,4 +9,5 @@
 	<h1>Hola Grupo</h1>
 	<p>Cambio para "develop1"
 </body>
+	<footer>Cambio para Features</footer>
 </html>
